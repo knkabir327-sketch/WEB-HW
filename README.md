@@ -1,23 +1,10 @@
 # Music Playlist
 
-A React-based music playlist application built using React, Vite and React Router.
+A simple music playlist app made using React.
 
-## Features
-- Browse songs
-- Filter songs by genre
-- View song details
-- Add and remove songs from your playlist
-- View total playlist duration
-- Trending song indicator
+The app lets you browse songs, filter them by genre, view song details and add or remove songs from your playlist.
 
-## Technologies Used
-- React
-- Vite
-- React Router
-- JavaScript
-- CSS
-
-## Run Locally
+## How to run
 
 ```bash
 npm install
